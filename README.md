@@ -52,31 +52,14 @@ Pickup system berbasis inheritance
 Immune system
 Main menu + load scene ke level
 
-📁 Struktur Folder (Unity Project)
-Assets/
-│── Art/
-│── Materials/
-│── Prefabs/
-│── Scenes/
-│   ├── MainMenu.unity
-│   └── Level01.unity
-│── Scripts/
-│   ├── Player/
-│       ├── PlayerController.cs
-│       ├── PlayerStats.cs
-│       └── CameraFollow.cs
-│   ├── Items/
-│       ├── ItemBase.cs
-│       ├── FoodItem.cs
-│       └── VitaminItem.cs
-│   ├── Enemy/
-│       └── EnemyBase.cs
-│   ├── Core/
-│       └── MainMenuManager.cs
-│   └── UI/
-│       └── StaminaUI.cs
-│── UI/
-│── Audio/
+Struktur Folder Proyek
+Assets
+Scripts (Player, Item, UI)
+Prefabs
+Scenes (Menu, Puzzle, Dialog)
+Audio
+Materials
+User Interface
 
 🛠 Teknologi yang Digunakan
 Unity (versi terbaru 6000.x)
