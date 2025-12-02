@@ -1,6 +1,5 @@
 # PHASE 2 HEALTH SURVIVOR
 📌 Deskripsi Umum
-
 Health Survivor adalah game survival adventure yang berlatar di sebuah kota yang mengalami kekacauan akibat wabah kuman yang menyebar dengan cepat. Pemain berperan sebagai seorang survivor yang harus bertahan hidup dengan mengumpulkan makanan, menjaga stamina, menghindari musuh, dan memanfaatkan vitamin untuk mendapatkan efek immune sementara.
 Game ini dikembangkan sebagai prototype gameplay tahap awal untuk mengeksplorasi mekanik dasar seperti movement, stamina, item pickup, serta interaksi dengan musuh.
 
