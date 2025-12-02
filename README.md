@@ -44,7 +44,6 @@ Lingkungan masih berupa arena dasar (belum desain kota)
 🧩 Fitur yang Sudah Berjalan
 Movement responsif menggunakan CharacterController
 Third-person camera follow
-Switching kamera FPS/TPS
 UI Stamina yang dinamis (slider)
 Damage system
 Pickup system berbasis inheritance
